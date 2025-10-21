@@ -1,0 +1,18 @@
+# Core data & wiskunde
+pandas>=2.0
+numpy>=1.24
+
+# Geodata & ruimtelijke analyse
+geopandas>=0.14
+shapely>=2.0
+
+# Visualisatie & kaartweergave
+folium>=0.15
+
+# HTTP requests
+requests>=2.31
+
+# Notebook & interactieve output (optioneel, alleen nodig in Jupyter)
+IPython>=8.0
+
+
