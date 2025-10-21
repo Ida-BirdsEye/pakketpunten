@@ -48,7 +48,7 @@ pip install -r requirements.txt
 Voer het hoofdscript uit om de pakketpunten data op te halen en te visualiseren:
 
 ```bash
-python main.py
+python main.py --gemeente Amsterdam --filename test --format geojson
 ```
 
 De resultaten worden opgeslagen in de map `output/`.
@@ -56,21 +56,6 @@ De resultaten worden opgeslagen in de map `output/`.
 ### Resultaten bekijken
 - **Kaart:** `output/kaart.html` → open in je browser  
 - **GeoPackage / GeoJSON:** open in QGIS, GeoPandas of een andere GIS-tool  
-
----
-
-## Visualisatie
-
-De interactieve kaart wordt gemaakt met **Folium**.  
-Je kunt de kaart openen in een webbrowser.
-
-Voorbeeldweergave (vereenvoudigd):
-
-```python
-from visualize import create_map
-
-m = create_map(gdf_pakketpunten, buffer_union300, buffer_union500)
-m.save("output/kaart.html")
 ```
 
 ---
@@ -94,7 +79,7 @@ m.save("output/kaart.html")
 
 ## Toekomstige uitbreidingen
 
-- work-in-progress..
+-  To be continue..
 
 ---
 
@@ -103,11 +88,5 @@ m.save("output/kaart.html")
 Dit project is vrijgegeven onder de **MIT-licentie**.  
 Je mag de code gebruiken, aanpassen en verspreiden zolang de originele auteursvermelding behouden blijft.
 
----
 
-> voeg een screenshot toe van een voorbeeld van de kaart in `docs/screenshot.png`  
-> en verwijs ernaar in deze README:
-> ```markdown
-> ![Voorbeeldkaart](docs/screenshot.png)
-> ```
 
