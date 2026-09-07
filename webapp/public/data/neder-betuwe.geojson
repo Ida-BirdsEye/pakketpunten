@@ -3,7 +3,7 @@
   "metadata": {
     "gemeente": "Neder-Betuwe",
     "slug": "neder-betuwe",
-    "generated_at": "2026-08-31T08:21:23.652231Z",
+    "generated_at": "2026-09-07T07:13:11.996111Z",
     "total_points": 20,
     "providers": [
       "Amazon",
@@ -355,7 +355,7 @@
         "openingstijden": {
           "ma": "09:00 - 17:30",
           "di": "09:00 - 17:30",
-          "wo": "09:00 - 13:00",
+          "wo": "gesloten",
           "do": "09:00 - 17:30",
           "vr": "09:00 - 17:30",
           "za": "09:00 - 15:00",

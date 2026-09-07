@@ -3,7 +3,7 @@
   "metadata": {
     "gemeente": "Vlaardingen",
     "slug": "vlaardingen",
-    "generated_at": "2026-08-31T08:30:59.309812Z",
+    "generated_at": "2026-09-07T07:22:08.031926Z",
     "total_points": 61,
     "providers": [
       "Amazon",
@@ -332,38 +332,6 @@
           "vr": "08:00 - 21:00",
           "za": "08:00 - 21:00",
           "zo": "09:00 - 20:00"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3288242,
-          51.9059581
-        ]
-      },
-      "properties": {
-        "type": "pakketpunt",
-        "locatieNaam": "You & My Personality",
-        "straatNaam": "Energieweg",
-        "straatNr": "20",
-        "vervoerder": "DHL",
-        "puntType": "parcelShop",
-        "bezettingsgraad": 50,
-        "latitude": 51.9059581,
-        "longitude": 4.3288242,
-        "canPickup": true,
-        "canDropoff": true,
-        "openingstijden": {
-          "ma": "10:00 - 17:30",
-          "di": "10:00 - 17:30",
-          "wo": "10:00 - 17:30",
-          "do": "10:00 - 17:30",
-          "vr": "10:00 - 17:30",
-          "za": "gesloten",
-          "zo": "gesloten"
         }
       }
     },
@@ -716,6 +684,38 @@
           "vr": "00:00 - 23:59",
           "za": "00:00 - 23:59",
           "zo": "00:00 - 23:59"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3288242,
+          51.9059581
+        ]
+      },
+      "properties": {
+        "type": "pakketpunt",
+        "locatieNaam": "You & My Personality",
+        "straatNaam": "Energieweg",
+        "straatNr": "20",
+        "vervoerder": "DHL",
+        "puntType": "parcelShop",
+        "bezettingsgraad": 50,
+        "latitude": 51.9059581,
+        "longitude": 4.3288242,
+        "canPickup": true,
+        "canDropoff": true,
+        "openingstijden": {
+          "ma": "10:00 - 17:30",
+          "di": "10:00 - 17:30",
+          "wo": "10:00 - 17:30",
+          "do": "10:00 - 17:30",
+          "vr": "10:00 - 17:30",
+          "za": "gesloten",
+          "zo": "gesloten"
         }
       }
     },

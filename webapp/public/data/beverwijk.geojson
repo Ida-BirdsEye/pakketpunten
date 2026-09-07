@@ -3,8 +3,8 @@
   "metadata": {
     "gemeente": "Beverwijk",
     "slug": "beverwijk",
-    "generated_at": "2026-08-31T08:07:02.248943Z",
-    "total_points": 65,
+    "generated_at": "2026-09-07T06:59:51.456927Z",
+    "total_points": 64,
     "providers": [
       "Amazon",
       "DeBuren",
@@ -821,38 +821,6 @@
           "vr": "08:00 - 21:00",
           "za": "08:00 - 21:00",
           "zo": "10:00 - 20:00"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.65643,
-          52.48267
-        ]
-      },
-      "properties": {
-        "type": "pakketpunt",
-        "locatieNaam": "Vloerpro",
-        "straatNaam": "KLOOSTERSTRAAT",
-        "straatNr": "2",
-        "vervoerder": "DPD",
-        "puntType": "pickup_point",
-        "bezettingsgraad": 50,
-        "latitude": 52.48267,
-        "longitude": 4.65643,
-        "canPickup": true,
-        "canDropoff": true,
-        "openingstijden": {
-          "ma": "gesloten",
-          "di": "gesloten",
-          "wo": "10:30 - 17:00",
-          "do": "10:30 - 17:00",
-          "vr": "gesloten",
-          "za": "10:30 - 17:00",
-          "zo": "gesloten"
         }
       }
     },

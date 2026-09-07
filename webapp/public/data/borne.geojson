@@ -3,8 +3,8 @@
   "metadata": {
     "gemeente": "Borne",
     "slug": "borne",
-    "generated_at": "2026-08-31T08:07:39.988387Z",
-    "total_points": 23,
+    "generated_at": "2026-09-07T07:00:27.728831Z",
+    "total_points": 24,
     "providers": [
       "Amazon",
       "DHL",
@@ -187,6 +187,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.756875038146973,
+          52.300437927246094
+        ]
+      },
+      "properties": {
+        "type": "pakketpunt",
+        "locatieNaam": "Sama Markt",
+        "straatNaam": "Marktplein",
+        "straatNr": "19-A",
+        "vervoerder": "DHL",
+        "puntType": "parcelShop",
+        "bezettingsgraad": 50,
+        "latitude": 52.300437927246094,
+        "longitude": 6.756875038146973,
+        "canPickup": true,
+        "canDropoff": true,
+        "openingstijden": {
+          "ma": "12:00 - 18:00",
+          "di": "10:00 - 18:00",
+          "wo": "09:00 - 18:00",
+          "do": "09:00 - 18:00",
+          "vr": "09:00 - 18:00",
+          "za": "09:00 - 18:00",
+          "zo": "12:00 - 17:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.7565484,
           52.3015707
         ]
@@ -323,7 +355,7 @@
         "longitude": 6.73590866244878,
         "canPickup": true,
         "canDropoff": true,
-        "openingstijden": "11:00 - 18:00 (Na 18:00 open)"
+        "openingstijden": "13:00 - 18:00 (Na 18:00 open)"
       }
     },
     {
@@ -1234,6 +1266,10 @@
           [
             [
               [
+                6.739940433973428,
+                52.30806217492179
+              ],
+              [
                 6.739748625189518,
                 52.307825142491836
               ],
@@ -1560,10 +1596,6 @@
               [
                 6.739940433973428,
                 52.30806217492179
-              ],
-              [
-                6.739748625189518,
-                52.307825142491836
               ]
             ]
           ],
@@ -2634,6 +2666,10 @@
           [
             [
               [
+                6.741284313083588,
+                52.30770280392489
+              ],
+              [
                 6.741028561053703,
                 52.307386763522594
               ],
@@ -2944,10 +2980,6 @@
               [
                 6.741284313083588,
                 52.30770280392489
-              ],
-              [
-                6.741028561053703,
-                52.307386763522594
               ]
             ]
           ],

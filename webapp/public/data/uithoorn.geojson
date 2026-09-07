@@ -3,7 +3,7 @@
   "metadata": {
     "gemeente": "Uithoorn",
     "slug": "uithoorn",
-    "generated_at": "2026-08-31T08:29:37.081430Z",
+    "generated_at": "2026-09-07T07:20:51.314703Z",
     "total_points": 30,
     "providers": [
       "Amazon",
@@ -348,12 +348,12 @@
         "canPickup": true,
         "canDropoff": true,
         "openingstijden": {
-          "ma": "10:00 - 17:00",
-          "di": "10:00 - 17:00",
-          "wo": "10:00 - 17:00",
-          "do": "10:00 - 17:00",
-          "vr": "10:00 - 17:00",
-          "za": "10:00 - 17:00",
+          "ma": "10:00 - 19:00",
+          "di": "10:00 - 19:00",
+          "wo": "10:00 - 19:00",
+          "do": "10:00 - 19:00",
+          "vr": "10:00 - 19:00",
+          "za": "10:00 - 18:00",
           "zo": "gesloten"
         }
       }

@@ -3,7 +3,7 @@
   "metadata": {
     "gemeente": "Aalten",
     "slug": "aalten",
-    "generated_at": "2026-08-31T08:03:51.203789Z",
+    "generated_at": "2026-09-07T06:56:54.535837Z",
     "total_points": 36,
     "providers": [
       "Amazon",
@@ -164,7 +164,7 @@
         "canPickup": true,
         "canDropoff": true,
         "openingstijden": {
-          "ma": "10:00 - 18:00",
+          "ma": "gesloten",
           "di": "09:00 - 18:00",
           "wo": "09:00 - 18:00",
           "do": "09:00 - 18:00",
@@ -683,7 +683,7 @@
         "longitude": 6.48786293,
         "canPickup": true,
         "canDropoff": true,
-        "openingstijden": "10:00 - 18:00 (Na 18:00 open; Zaterdag open; Zondag open)"
+        "openingstijden": null
       }
     },
     {

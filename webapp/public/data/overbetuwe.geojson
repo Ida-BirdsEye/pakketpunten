@@ -3,7 +3,7 @@
   "metadata": {
     "gemeente": "Overbetuwe",
     "slug": "overbetuwe",
-    "generated_at": "2026-08-31T08:24:26.551633Z",
+    "generated_at": "2026-09-07T07:15:57.545233Z",
     "total_points": 57,
     "providers": [
       "Amazon",
@@ -746,7 +746,7 @@
       },
       "properties": {
         "type": "pakketpunt",
-        "locatieNaam": "Pakketautomaat Lidl Oosterhout",
+        "locatieNaam": "Pakketautomaat Lidl Oosterhout Gld",
         "straatNaam": "Stationsstraat",
         "straatNr": "19",
         "vervoerder": "DHL",
@@ -1044,7 +1044,7 @@
         "longitude": 5.791952394,
         "canPickup": true,
         "canDropoff": true,
-        "openingstijden": null
+        "openingstijden": "08:30 - 18:00 (Na 18:00 open; Zaterdag open)"
       }
     },
     {
@@ -1605,7 +1605,7 @@
         "canPickup": true,
         "canDropoff": true,
         "openingstijden": {
-          "ma": "gesloten",
+          "ma": "09:30 - 17:00",
           "di": "09:30 - 17:00",
           "wo": "09:30 - 17:00",
           "do": "09:30 - 17:00",

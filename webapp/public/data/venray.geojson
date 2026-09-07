@@ -3,8 +3,8 @@
   "metadata": {
     "gemeente": "Venray",
     "slug": "venray",
-    "generated_at": "2026-08-31T08:30:48.454132Z",
-    "total_points": 50,
+    "generated_at": "2026-09-07T07:21:57.652873Z",
+    "total_points": 49,
     "providers": [
       "Amazon",
       "DHL",
@@ -1243,38 +1243,6 @@
           "vr": "09:30 - 20:00",
           "za": "09:30 - 20:00",
           "zo": "11:00 - 19:00"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.02526,
-          51.52536
-        ]
-      },
-      "properties": {
-        "type": "pakketpunt",
-        "locatieNaam": "SSQ Artikelen",
-        "straatNaam": "Sparrendreef",
-        "straatNr": "2D",
-        "vervoerder": "GLS",
-        "puntType": "parcel_shop",
-        "bezettingsgraad": 50,
-        "latitude": 51.52536,
-        "longitude": 6.02526,
-        "canPickup": true,
-        "canDropoff": true,
-        "openingstijden": {
-          "ma": "09:00 - 13:30, 15:00 - 21:00",
-          "di": "09:00 - 17:00",
-          "wo": "09:00 - 17:00",
-          "do": "09:00 - 17:00",
-          "vr": "09:00 - 17:00",
-          "za": "00:00 - 00:00",
-          "zo": "00:00 - 00:00"
         }
       }
     },

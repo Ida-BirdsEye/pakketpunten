@@ -3,7 +3,7 @@
   "metadata": {
     "gemeente": "Wijk bij Duurstede",
     "slug": "wijk-bij-duurstede",
-    "generated_at": "2026-08-31T08:33:29.966403Z",
+    "generated_at": "2026-09-07T07:24:25.103055Z",
     "total_points": 25,
     "providers": [
       "Amazon",
@@ -324,12 +324,12 @@
         "canPickup": true,
         "canDropoff": true,
         "openingstijden": {
-          "ma": "08:30 - 14:00",
-          "di": "08:30 - 14:00",
-          "wo": "08:30 - 14:00",
-          "do": "08:30 - 14:00",
-          "vr": "08:30 - 14:00",
-          "za": "08:30 - 14:00",
+          "ma": "08:30 - 18:00",
+          "di": "08:30 - 18:00",
+          "wo": "08:30 - 18:00",
+          "do": "08:30 - 18:00",
+          "vr": "08:30 - 18:00",
+          "za": "08:30 - 16:00",
           "zo": "gesloten"
         }
       }

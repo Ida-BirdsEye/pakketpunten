@@ -3,8 +3,8 @@
   "metadata": {
     "gemeente": "Kampen",
     "slug": "kampen",
-    "generated_at": "2026-08-31T08:17:18.816342Z",
-    "total_points": 64,
+    "generated_at": "2026-09-07T07:09:18.244896Z",
+    "total_points": 65,
     "providers": [
       "Amazon",
       "DeBuren",
@@ -517,38 +517,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.9403548,
-          52.5667672
-        ]
-      },
-      "properties": {
-        "type": "pakketpunt",
-        "locatieNaam": "DHL Buurtpunt ViaTim & Groenedael",
-        "straatNaam": "Groenendael",
-        "straatNr": "72",
-        "vervoerder": "DHL",
-        "puntType": "parcelShop",
-        "bezettingsgraad": 50,
-        "latitude": 52.5667672,
-        "longitude": 5.9403548,
-        "canPickup": true,
-        "canDropoff": true,
-        "openingstijden": {
-          "ma": "09:00 - 20:00",
-          "di": "16:00 - 20:00",
-          "wo": "16:00 - 20:00",
-          "do": "09:00 - 20:00",
-          "vr": "16:00 - 20:00",
-          "za": "gesloten",
-          "zo": "gesloten"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.879660954970072,
           52.55899403869221
         ]
@@ -732,6 +700,38 @@
           "do": "08:30 - 12:30, 13:30 - 17:45",
           "vr": "08:30 - 12:30, 13:30 - 17:45",
           "za": "08:30 - 12:30, 13:30 - 16:00",
+          "zo": "gesloten"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9403548,
+          52.5667672
+        ]
+      },
+      "properties": {
+        "type": "pakketpunt",
+        "locatieNaam": "DHL Buurtpunt ViaTim & Groenedael",
+        "straatNaam": "Groenendael",
+        "straatNr": "72",
+        "vervoerder": "DHL",
+        "puntType": "parcelShop",
+        "bezettingsgraad": 50,
+        "latitude": 52.5667672,
+        "longitude": 5.9403548,
+        "canPickup": true,
+        "canDropoff": true,
+        "openingstijden": {
+          "ma": "09:00 - 20:00",
+          "di": "16:00 - 20:00",
+          "wo": "16:00 - 20:00",
+          "do": "09:00 - 20:00",
+          "vr": "16:00 - 20:00",
+          "za": "gesloten",
           "zo": "gesloten"
         }
       }
@@ -1534,10 +1534,10 @@
         "canPickup": true,
         "canDropoff": true,
         "openingstijden": {
-          "ma": "12:00 - 17:30, 18:30 - 18:00",
+          "ma": "12:00 - 17:00",
           "di": "12:00 - 17:30, 18:30 - 21:00",
-          "wo": "12:00 - 17:30, 18:30 - 18:00",
-          "do": "12:00 - 17:30, 18:30 - 18:00",
+          "wo": "12:00 - 18:00",
+          "do": "12:00 - 18:00",
           "vr": "12:00 - 17:30, 18:30 - 21:00",
           "za": "12:00 - 17:30, 18:30 - 21:00",
           "zo": "00:00 - 00:00"
@@ -1734,6 +1734,30 @@
           "za": "09:00 - 12:00",
           "zo": "gesloten"
         }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.91856,
+          52.55563
+        ]
+      },
+      "properties": {
+        "type": "pakketpunt",
+        "locatieNaam": "ZOETELIEF KAMPEN",
+        "straatNaam": "Geerstraat 16",
+        "straatNr": "",
+        "vervoerder": "InPost",
+        "puntType": "servicepunt",
+        "bezettingsgraad": 50,
+        "latitude": 52.55563,
+        "longitude": 5.91856,
+        "canPickup": true,
+        "canDropoff": true,
+        "openingstijden": null
       }
     },
     {
@@ -4396,10 +4420,6 @@
           [
             [
               [
-                5.922152028880932,
-                52.553978029027384
-              ],
-              [
                 5.9218908751555155,
                 52.55376668206734
               ],
@@ -4904,12 +4924,20 @@
                 52.55527573582599
               ],
               [
-                5.922885273358188,
-                52.55518533799618
+                5.922933308026489,
+                52.55524607260223
               ],
               [
-                5.92282428852864,
-                52.554946927961126
+                5.922891983991815,
+                52.55508452439148
+              ],
+              [
+                5.922783392697341,
+                52.55482835013295
+              ],
+              [
+                5.922751571671871,
+                52.55477538307933
               ],
               [
                 5.922715697968827,
@@ -4926,6 +4954,10 @@
               [
                 5.922152028880932,
                 52.553978029027384
+              ],
+              [
+                5.9218908751555155,
+                52.55376668206734
               ]
             ]
           ],
@@ -5052,7 +5084,7 @@
                 52.5683081840999
               ],
               [
-                5.9270313247616695,
+                5.927031324761668,
                 52.5683323728488
               ],
               [
@@ -9226,16 +9258,20 @@
                 52.55525693348382
               ],
               [
-                5.924314786788128,
-                52.55492566528794
+                5.924361900092306,
+                52.55500408123204
               ],
               [
-                5.924306736086968,
-                52.554915486488014
+                5.924335953966505,
+                52.554902662666926
               ],
               [
-                5.924268254282586,
-                52.55476506705997
+                5.924191155280981,
+                52.5545610987242
+              ],
+              [
+                5.924159332760211,
+                52.55450813204673
               ],
               [
                 5.92412345657667,

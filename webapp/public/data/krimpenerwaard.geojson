@@ -3,7 +3,7 @@
   "metadata": {
     "gemeente": "Krimpenerwaard",
     "slug": "krimpenerwaard",
-    "generated_at": "2026-08-31T08:17:51.291618Z",
+    "generated_at": "2026-09-07T07:09:49.934598Z",
     "total_points": 56,
     "providers": [
       "Amazon",
@@ -1464,7 +1464,7 @@
           "di": "13:00 - 21:00",
           "wo": "13:00 - 21:00",
           "do": "13:00 - 21:00",
-          "vr": "gesloten",
+          "vr": "13:00 - 21:00",
           "za": "gesloten",
           "zo": "gesloten"
         }

@@ -3,8 +3,8 @@
   "metadata": {
     "gemeente": "Lisse",
     "slug": "lisse",
-    "generated_at": "2026-08-31T08:19:14.692759Z",
-    "total_points": 36,
+    "generated_at": "2026-09-07T07:11:11.978577Z",
+    "total_points": 37,
     "providers": [
       "Amazon",
       "DHL",
@@ -977,6 +977,30 @@
         "bezettingsgraad": 50,
         "latitude": 52.23965,
         "longitude": 4.53636,
+        "canPickup": true,
+        "canDropoff": true,
+        "openingstijden": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.55852,
+          52.26073
+        ]
+      },
+      "properties": {
+        "type": "pakketpunt",
+        "locatieNaam": "MOBIL MECHANIC",
+        "straatNaam": "Blokhuis 2A",
+        "straatNr": "",
+        "vervoerder": "InPost",
+        "puntType": "servicepunt",
+        "bezettingsgraad": 50,
+        "latitude": 52.26073,
+        "longitude": 4.55852,
         "canPickup": true,
         "canDropoff": true,
         "openingstijden": null
@@ -2402,10 +2426,6 @@
           [
             [
               [
-                4.5640294762725,
-                52.24696402566168
-              ],
-              [
                 4.563686166321249,
                 52.246804000712906
               ],
@@ -2924,6 +2944,10 @@
               [
                 4.5640294762725,
                 52.24696402566168
+              ],
+              [
+                4.563686166321249,
+                52.246804000712906
               ]
             ]
           ]
@@ -4182,7 +4206,7 @@
                 52.255940782305004
               ],
               [
-                4.559751938070226,
+                4.559751938070225,
                 52.255914505589345
               ],
               [
@@ -4193,10 +4217,6 @@
           ],
           [
             [
-              [
-                4.5649711542393385,
-                52.24627578665885
-              ],
               [
                 4.564513410712065,
                 52.24606242346631
@@ -4410,7 +4430,7 @@
                 52.25581333112473
               ],
               [
-                4.562644838771769,
+                4.56264483877177,
                 52.25590332696013
               ],
               [
@@ -4636,6 +4656,10 @@
               [
                 4.5649711542393385,
                 52.24627578665885
+              ],
+              [
+                4.564513410712065,
+                52.24606242346631
               ]
             ]
           ]

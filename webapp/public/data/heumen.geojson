@@ -3,7 +3,7 @@
   "metadata": {
     "gemeente": "Heumen",
     "slug": "heumen",
-    "generated_at": "2026-08-31T08:15:49.155168Z",
+    "generated_at": "2026-09-07T07:07:56.852423Z",
     "total_points": 14,
     "providers": [
       "Amazon",
@@ -162,12 +162,12 @@
         "canPickup": true,
         "canDropoff": true,
         "openingstijden": {
-          "ma": "11:00 - 19:00",
-          "di": "11:00 - 19:00",
-          "wo": "11:00 - 19:00",
-          "do": "11:00 - 19:00",
-          "vr": "11:00 - 19:00",
-          "za": "11:00 - 18:00",
+          "ma": "11:00 - 18:00",
+          "di": "11:00 - 18:30",
+          "wo": "11:00 - 18:30",
+          "do": "11:00 - 18:00",
+          "vr": "11:00 - 18:00",
+          "za": "11:00 - 17:30",
           "zo": "gesloten"
         }
       }

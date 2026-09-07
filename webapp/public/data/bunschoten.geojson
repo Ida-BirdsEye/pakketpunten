@@ -3,7 +3,7 @@
   "metadata": {
     "gemeente": "Bunschoten",
     "slug": "bunschoten",
-    "generated_at": "2026-08-31T08:08:24.245610Z",
+    "generated_at": "2026-09-07T07:01:07.532622Z",
     "total_points": 27,
     "providers": [
       "Amazon",
@@ -139,38 +139,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.3770846,
-          52.2520609
-        ]
-      },
-      "properties": {
-        "type": "pakketpunt",
-        "locatieNaam": "Blokker Spakenburg",
-        "straatNaam": "Spuistraat",
-        "straatNr": "19",
-        "vervoerder": "DHL",
-        "puntType": "parcelShop",
-        "bezettingsgraad": 50,
-        "latitude": 52.2520609,
-        "longitude": 5.3770846,
-        "canPickup": true,
-        "canDropoff": true,
-        "openingstijden": {
-          "ma": "10:00 - 18:00",
-          "di": "09:00 - 18:00",
-          "wo": "09:00 - 18:00",
-          "do": "09:00 - 18:00",
-          "vr": "09:00 - 18:00",
-          "za": "09:00 - 17:00",
-          "zo": "gesloten"
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.3848366,
           52.2492236
         ]
@@ -289,6 +257,38 @@
           "wo": "09:30 - 18:00",
           "do": "09:30 - 18:00",
           "vr": "09:30 - 18:00",
+          "za": "09:00 - 17:00",
+          "zo": "gesloten"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3770846,
+          52.2520609
+        ]
+      },
+      "properties": {
+        "type": "pakketpunt",
+        "locatieNaam": "Blokker Spakenburg",
+        "straatNaam": "Spuistraat",
+        "straatNr": "19",
+        "vervoerder": "DHL",
+        "puntType": "parcelShop",
+        "bezettingsgraad": 50,
+        "latitude": 52.2520609,
+        "longitude": 5.3770846,
+        "canPickup": true,
+        "canDropoff": true,
+        "openingstijden": {
+          "ma": "10:00 - 18:00",
+          "di": "09:00 - 18:00",
+          "wo": "09:00 - 18:00",
+          "do": "09:00 - 18:00",
+          "vr": "09:00 - 18:00",
           "za": "09:00 - 17:00",
           "zo": "gesloten"
         }

@@ -3,7 +3,7 @@
   "metadata": {
     "gemeente": "Rhenen",
     "slug": "rhenen",
-    "generated_at": "2026-08-31T08:25:35.789795Z",
+    "generated_at": "2026-09-07T07:17:04.417553Z",
     "total_points": 30,
     "providers": [
       "Amazon",
@@ -669,7 +669,7 @@
         "canPickup": true,
         "canDropoff": true,
         "openingstijden": {
-          "ma": "gesloten",
+          "ma": "13:30 - 19:00",
           "di": "13:30 - 19:00",
           "wo": "13:30 - 19:00",
           "do": "13:30 - 19:00",
